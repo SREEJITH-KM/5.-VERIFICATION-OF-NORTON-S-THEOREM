@@ -24,16 +24,16 @@ Norton’s Resistance, RN:It is the look-back resistance across the load termina
  
 **CIRCUIT DIAGRAM: VERIFICATION OF NORTON’S THEOREM**
 
-![exp 5 cd](https://github.com/user-attachments/assets/c0fbfecb-54de-4d8a-ba29-bd79a5a831d9)
+![WhatsApp Image 2025-11-22 at 20 37 45_babac9cd](https://github.com/user-attachments/assets/b39b01f9-a97a-45cc-93b4-261e58c96266)
 
-**TABULATION:**
+**TABULATION**
 
-![exp 5 tab](https://github.com/user-attachments/assets/2668bb6d-c485-401f-8e23-9acac915a307)
+![WhatsApp Image 2025-11-22 at 20 38 32_bcef113e](https://github.com/user-attachments/assets/b09aec31-cee4-4254-a696-7288d8bd1d26)
 
-**CALCULATION:**
+**CALCULATION**
 
-![ex 5 calc](https://github.com/user-attachments/assets/3b0f4c9a-510a-453d-a692-435a5f13b0cd)
-
+![WhatsApp Image 2025-11-22 at 20 40 37_62237963](https://github.com/user-attachments/assets/0cb0c9dd-2a72-44c9-87dd-d6b57dd70c6a)
+![WhatsApp Image 2025-11-22 at 20 41 15_04aa7dbb](https://github.com/user-attachments/assets/189f77ed-2bbf-45c4-9e3c-b692749059a5)
 
 **PROCEDURE:**
 
@@ -65,11 +65,6 @@ Norton’s Resistance, RN:It is the look-back resistance across the load termina
 
 12.	Theoretically verify the Norton’s theorem.
 
-**MARKS SPLIT UP:**
-
-![exp 5 ms](https://github.com/user-attachments/assets/6e653112-84d7-4a3b-a4d2-a170d4b42b70)
-
-
 **RESULT:**
 
-Thus Norton’s theorem is verified practically and theoretically.
+Thus Thevenin’s and Norton’s theorem is verified practically and theoretically.
